@@ -1,0 +1,1 @@
+gdb --args a.out
